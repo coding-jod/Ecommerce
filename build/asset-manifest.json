@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.95ce3b14.css",
+    "main.js": "./static/js/main.193fb9d1.js",
+    "static/media/bigphot.png": "./static/media/bigphot.67e93c1bf692540fc1c0.png",
+    "static/media/Gold Coin.png": "./static/media/Gold Coin.3102bf09366d8a4ce727.png",
+    "static/media/Gold Coin2.png": "./static/media/Gold Coin2.3102bf09366d8a4ce727.png",
+    "static/media/softtoy.png": "./static/media/softtoy.fcbe3d98e77ab173c43a.png",
+    "static/media/kurti.png": "./static/media/kurti.e4754346340726c9d937.png",
+    "static/media/jeans.png": "./static/media/jeans.b8387334b52b8a1da84e.png",
+    "static/media/sunglasses.png": "./static/media/sunglasses.93e2db04aa8757303b7f.png",
+    "static/media/Silver.png": "./static/media/Silver.060f48e2da701d6e6fa7.png",
+    "static/media/Gold.png": "./static/media/Gold.663df2c337593ec6b30d.png",
+    "static/media/Bronze.png": "./static/media/Bronze.e133dcddfe8b891cbf06.png",
+    "index.html": "./index.html",
+    "main.95ce3b14.css.map": "./static/css/main.95ce3b14.css.map",
+    "main.193fb9d1.js.map": "./static/js/main.193fb9d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ce3b14.css",
+    "static/js/main.193fb9d1.js"
+  ]
+}
